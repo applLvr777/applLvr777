@@ -8,7 +8,7 @@ Japan 🇯🇵 · Engineering · Architecture · AI · Energy · Aerospace · De
 
 ## About
 
-I am **Shun Ishibashi**, a Japanese entrepreneur and technologist working across the boundaries of engineering, architecture, artificial intelligence, energy, aerospace, defense technology, and finance.
+I am **Shun Ishibashi**, a Japanese technologist learning across the boundaries of engineering, architecture, artificial intelligence, energy, aerospace, defense technology, and finance.
 
 My interest lies not merely in individual technologies, but in **how technologies converge to reshape civilization**.
 
